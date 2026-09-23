@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f93875ec7c3bb017f4bf5130",
+  "owner": "bbkjuewxsr",
+  "repo": "page-d79a9356f8918f40d6ea6685",
+  "title": "瞬间加密网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d79a9356f8918f40d6ea6685",
+      "a": "瞬间加密网络",
+      "b": "稳定全球clash加速器",
+      "entity": "瞬间加密网络",
+      "brand": "瞬间加密网络",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "bf5ef1598eae80cf012874b0b7c02ff896ee2d7f6feb13d5cf61329ecdbfe951",
+      "content": {
+        "primary_entity": "瞬间加密网络",
+        "keyword1": "瞬间加密网络",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，围绕稳定连接与设备适配提供三档订阅方案，基础版适合轻量浏览与移动端日常使用，旗舰版针对流媒体与游戏延迟优化，团队版面向多设备并发与定制路由需求。按客户端文档完成订阅导入即可开始配置。",
+          "AI_HERO_SUBTITLE": "三档订阅覆盖多设备",
+          "AI_HERO_INTRO": "瞬间加密网络提供基础版、旗舰版与团队版三档套餐，分别在流量、设备数与线路类型上做区分。基础版适合手机与平板等少量设备，旗舰版增加流媒体与游戏优化，团队版支持二十台设备与定制路由。",
+          "AI_VISUAL_TITLE": "三档套餐按需选择",
+          "AI_HIGHLIGHT_1": "月付与年付两种周期",
+          "AI_HIGHLIGHT_2": "基础版支持三台设备",
+          "AI_HIGHLIGHT_3": "旗舰版含游戏加速线路",
+          "AI_FEATURES_TITLE": "套餐差异与设备适配",
+          "AI_FEATURES_INTRO": "按设备数量与用途挑选档位，流量和线路类型随档位提升。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持三台，旗舰版五台，团队版二十台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按用途选线路",
+          "AI_FEATURE_TEXT_2": "基础版为普通线路，旗舰版含 IPLC 专线，团队版享 VIP 高带宽节点。",
+          "AI_FEATURE_TITLE_3": "按周期控成本",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_CLIENTS_TITLE": "常见客户端与订阅配置",
+          "AI_CLIENTS_INTRO": "Windows 与 macOS 可选 Clash Verge、Clash for Windows；iOS 用 Stash、Shadowrocket；Android 用 Clash for Android、FlClash。安装后导入订阅链接，选择策略组即可连接。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，100GB 流量、三台设备；旗舰版 ¥35/月，300GB 流量、五台设备、IPLC 专线；团队版 ¥85/月，1000GB 流量、二十台设备、专属节点。",
+          "AI_GUIDE_TITLE": "订阅使用三步",
+          "AI_GUIDE_INTRO": "先确认设备数量与用途，再选择套餐并导入订阅。",
+          "AI_STEP_TITLE_1": "确定设备数量",
+          "AI_STEP_TEXT_1": "统计需要同时在线的手机、电脑与平板数量，对照档位设备上限。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认系统版本与客户端支持情况，选择对应平台的订阅配置方式。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在客户端粘贴订阅链接，更新节点列表后选择延迟较低的策略组使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对档位轻松连接",
+          "AI_CLOSING_TEXT": "根据设备数量与使用场景选择套餐，完成订阅导入即可开始使用瞬间加密网络。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "瞬间加密网络的套餐可以随时更换吗？",
+          "AI_FAQ_ANSWER_1": "可以。在订阅周期内如需调整，可参考服务方说明操作。升级旗舰版或团队版通常能获得更多流量与设备数，具体以当前套餐规则为准。",
+          "AI_FAQ_QUESTION_2": "支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版3台，旗舰版5台，团队版20台。设备数按同时在线计算，手机、平板与桌面客户端均计为独立设备。",
+          "AI_FAQ_QUESTION_3": "年付怎么选更划算？",
+          "AI_FAQ_ANSWER_3": "按年付整体低于月付合计。基础版年付150元，旗舰版350元，团队版850元。使用周期超过半年时，年付通常更经济。",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线适合哪些场景？",
+          "AI_FAQ_ANSWER_4": "IPLC专线针对游戏与实时通信做了延迟优化，适合对稳定性要求较高的场景。日常浏览与流媒体使用基础线路也已足够。",
+          "AI_FAQ_QUESTION_5": "订阅导入遇到问题怎么办？",
+          "AI_FAQ_ANSWER_5": "先核对订阅链接格式是否被客户端支持，再确认设备网络状态。旗舰版与团队版提供优先工单支持，可联系客户经理协助排查。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4simhlzfwuc.com",
+    "host": "xn--9kqy4simhlzfwuc.com"
+  },
+  "file_hashes": {
+    "index.html": "8917e7a393648eb32d31f8721fe7cbca37d93343008553763da51bbb59d0756d",
+    "sitemap.xml": "97391b94eaeb64b56aa3d4f221bd6ec3e7576e81fb8a34518913de9ce96ddc97",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e6c5056d235a200ddb63e650d61811cbb060ccae2256dafb877fb476bd7985d5",
+    "robots.txt": "e9fc5ab11df1090150f38d0db3a257bdf885220d789a914b5f801271d4e652cc",
+    "32869573254989e9cfd552257261099b.txt": "4ca28ee5d94c6932cb53227a43c1b1d4423954c9997485f1b8f16871a2919b9a"
+  },
+  "revision": "31154a092a562e42fafeaa96f5e27f5fa15d01ce4d1648ba6e47c850d0c55156"
+}
